@@ -1,0 +1,20 @@
+﻿MyKpiyapProject
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\RspoManager\MyKpiyapProject\obj\Debug\net8.0-windows\
+MyKpiyapProject
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\RspoManager\MyKpiyapProject\App.xaml
+21-894537165
+
+85945731377
+226-85321247
+Views\UserControls\AccountControl.xaml;Views\UserControls\Employee\AddEmployeeControl.xaml;Views\UserControls\Employee\EditEmployeeControl.xaml;Views\UserControls\Employee\EmployeeControl1.xaml;Views\UserControls\LogAdminControl.xaml;Views\UserControls\Project\AddProjectControl.xaml;Views\UserControls\Project\EditProjectControl.xaml;Views\UserControls\Project\ProjectControl.xaml;Views\UserControls\Project\ViewinProjectControl.xaml;Views\UserControls\Report\AddReportProjectControl.xaml;Views\UserControls\Report\AddReportTaskControl.xaml;Views\UserControls\Report\AddReportTimeIntervalControl.xaml;Views\UserControls\Report\ChoosingReportControl.xaml;Views\UserControls\Report\ReportControl.xaml;Views\UserControls\Report\ViewingReportControl.xaml;Views\UserControls\Task\AddTaskControl.xaml;Views\UserControls\Task\EditTaskControl.xaml;Views\UserControls\Task\TaskControl.xaml;Views\UserControls\Task\ViewingTaskControl.xaml;Views\Windows\AuthWindow.xaml;Views\Windows\UserPageWindow.xaml;
+
+False
+

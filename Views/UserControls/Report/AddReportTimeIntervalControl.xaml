@@ -1,0 +1,86 @@
+﻿<UserControl x:Class="MyKpiyapProject.Views.UserControls.Report.AddReportTimeIntervalControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MyKpiyapProject.Views.UserControls.Report"
+             xmlns:vm="clr-namespace:MyKpiyapProject.ViewModels.UserControls.Report"
+             mc:Ignorable="d" 
+                         xmlns:Icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
+             d:DesignHeight="660" d:DesignWidth="400"
+             Background="Transparent">
+
+    <UserControl.DataContext>
+        <vm:AddReportTimeIntervalViewModel/>
+    </UserControl.DataContext>
+
+    <UserControl.Resources>
+        <Storyboard x:Key="FadeInStoryboard">
+            <DoubleAnimation Storyboard.TargetProperty="Opacity" From="0" To="1" Duration="0:0:0.5"/>
+        </Storyboard>
+        <Storyboard x:Key="SlideOutFromRightStoryboard">
+            <ThicknessAnimation Storyboard.TargetProperty="Margin"
+                    From="0,0,0,0" 
+                    To="500,0,0,0"
+                    Duration="0:0:0.4"/>
+        </Storyboard>
+        <BooleanToVisibilityConverter x:Key="BoolToVis"/>
+    </UserControl.Resources>
+
+    <Border BorderBrush="Black" BorderThickness="1" CornerRadius="20" Background="White">
+        <Grid Background="Transparent">
+            <!-- Заголовок -->
+            <StackPanel Orientation="Horizontal" Margin="10 0 10 0" Height="45" VerticalAlignment="Top">
+                <Button Style="{StaticResource topButton}" Margin="0 0 50 0" Background="Transparent" Click="Button_Close_Click">
+                    <Icon:PackIconMaterial Kind="Close" HorizontalAlignment="Center"/>
+                </Button>
+                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" 
+                          Text="Добавление отчёта" FontSize="18" FontWeight="Bold" Margin="20,10,0,10"/>
+            </StackPanel>
+
+            <!-- Основное содержимое -->
+            <Border Background="Transparent" BorderBrush="Gray" BorderThickness="0" Padding="20 13" Margin="10,35,10,10">
+                <StackPanel>
+                    <TextBlock Text="Название отчёта:" FontSize="16" Margin="0,0,0,5"/>
+                    <TextBox Text="{Binding Title, UpdateSourceTrigger=PropertyChanged}" 
+                            x:Name="TaskNameTextBox" Style="{StaticResource TextBoxWithPlaceholder}" Tag="Введите название отчёта" />
+
+                    <TextBlock Text="Описание:" FontSize="16" Margin="0,0,0,5"/>
+                    <TextBox Text="{Binding Description, UpdateSourceTrigger=PropertyChanged}" 
+                            x:Name="TaskDescriptionTextBox" Style="{StaticResource TextBoxWithPlaceholder}" Tag="Введите описание" Height="71"
+                            TextWrapping="Wrap" AcceptsReturn="True" VerticalContentAlignment="Top" 
+                            HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Auto"/>
+
+                    <TextBlock Text="Количество завершённых проектов:" FontSize="16" Margin="0,0,0,5"/>
+                    <TextBox Text="{Binding KolProj, UpdateSourceTrigger=PropertyChanged}" 
+                         x:Name="KolProjTextBox" Style="{StaticResource textboxAdd}" />
+
+                    <TextBlock Text="Количество завершённых задач:" FontSize="16" Margin="0,0,0,5"/>
+                    <TextBox Text="{Binding KolTask, UpdateSourceTrigger=PropertyChanged}" 
+                        x:Name="KolTaskTextBox" Style="{StaticResource textboxAdd}" />
+
+                    <TextBlock Text="Количество просрочек:" FontSize="16" Margin="0,0,0,5"/>
+                    <TextBox Text="{Binding KolProsTask, UpdateSourceTrigger=PropertyChanged}" 
+                        x:Name="KolProsTaskTextBox" Style="{StaticResource textboxAdd}" />
+
+                    <TextBlock Text="Общие затраты:" FontSize="16" Margin="0,0,0,5"/>
+                    <TextBox Text="{Binding ZatratHours, UpdateSourceTrigger=PropertyChanged}" 
+                        x:Name="zatrTaskTextBox" Style="{StaticResource TextBoxWithPlaceholder}" Tag="Введите затраты"  />
+
+                    <TextBlock Text="Промежуток времени:" Width="210" FontSize="16" Margin="0,0,40,0" HorizontalAlignment="Left" VerticalAlignment="Center" />
+                    <StackPanel Orientation="Horizontal" Height="42" Margin="0 0 0 20">
+                        <TextBlock Text="От" FontSize="16" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0 0 25 0"/>
+                        <DatePicker SelectedDate="{Binding CreatingDate, Mode=TwoWay}" x:Name="DatePickerCreatingDate" FontSize="16" Width="110" Height="30"/>
+                        <TextBlock Text="До" FontSize="16" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="40 0 15 0"/>
+                        <DatePicker SelectedDate="{Binding FinishDate, Mode=TwoWay}" x:Name="DatePickerDeadLine" FontSize="16" Width="110" Height="30"/>
+                    </StackPanel>
+                    
+
+                    <Button Content="Добавить отчёт" Width="360" Height="30" 
+                            Background="#6200EE" Foreground="White" HorizontalAlignment="Center" 
+                            Command="{Binding SaveReportCommand}"/>
+                </StackPanel>
+            </Border>
+        </Grid>
+    </Border>
+</UserControl>
