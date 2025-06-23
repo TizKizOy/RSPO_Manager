@@ -1,0 +1,68 @@
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject -\AutoEntryMyWpf\bin\Debug\AutoEntryMyWpf.exe.config
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject -\AutoEntryMyWpf\bin\Debug\AutoEntryMyWpf.exe
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject -\AutoEntryMyWpf\bin\Debug\AutoEntryMyWpf.pdb
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject -\AutoEntryMyWpf\bin\Debug\FlaUI.Core.dll
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject -\AutoEntryMyWpf\bin\Debug\FlaUI.UIA3.dll
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject -\AutoEntryMyWpf\bin\Debug\Interop.UIAutomationClient.dll
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject -\AutoEntryMyWpf\bin\Debug\System.CodeDom.dll
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject -\AutoEntryMyWpf\bin\Debug\FlaUI.Core.xml
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject -\AutoEntryMyWpf\bin\Debug\FlaUI.UIA3.xml
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject -\AutoEntryMyWpf\bin\Debug\System.CodeDom.xml
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject -\AutoEntryMyWpf\obj\Debug\AutoEntryMyWpf.csproj.AssemblyReference.cache
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject -\AutoEntryMyWpf\obj\Debug\AutoEntryMyWpf.csproj.CoreCompileInputs.cache
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject -\AutoEntryMyWpf\obj\Debug\AutoEntr.69CF606E.Up2Date
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject -\AutoEntryMyWpf\obj\Debug\AutoEntryMyWpf.exe
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject -\AutoEntryMyWpf\obj\Debug\AutoEntryMyWpf.pdb
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject - логи + готовые задачи 0.10\AutoEntryMyWpf\bin\Debug\AutoEntryMyWpf.exe.config
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject - логи + готовые задачи 0.10\AutoEntryMyWpf\bin\Debug\AutoEntryMyWpf.exe
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject - логи + готовые задачи 0.10\AutoEntryMyWpf\bin\Debug\AutoEntryMyWpf.pdb
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject - логи + готовые задачи 0.10\AutoEntryMyWpf\bin\Debug\FlaUI.Core.dll
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject - логи + готовые задачи 0.10\AutoEntryMyWpf\bin\Debug\FlaUI.UIA3.dll
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject - логи + готовые задачи 0.10\AutoEntryMyWpf\bin\Debug\Interop.UIAutomationClient.dll
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject - логи + готовые задачи 0.10\AutoEntryMyWpf\bin\Debug\System.CodeDom.dll
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject - логи + готовые задачи 0.10\AutoEntryMyWpf\bin\Debug\FlaUI.Core.xml
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject - логи + готовые задачи 0.10\AutoEntryMyWpf\bin\Debug\FlaUI.UIA3.xml
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject - логи + готовые задачи 0.10\AutoEntryMyWpf\bin\Debug\System.CodeDom.xml
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject - логи + готовые задачи 0.10\AutoEntryMyWpf\obj\Debug\AutoEntryMyWpf.csproj.AssemblyReference.cache
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject - логи + готовые задачи 0.10\AutoEntryMyWpf\obj\Debug\AutoEntryMyWpf.csproj.CoreCompileInputs.cache
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject - логи + готовые задачи 0.10\AutoEntryMyWpf\obj\Debug\AutoEntr.69CF606E.Up2Date
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject - логи + готовые задачи 0.10\AutoEntryMyWpf\obj\Debug\AutoEntryMyWpf.exe
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject - логи + готовые задачи 0.10\AutoEntryMyWpf\obj\Debug\AutoEntryMyWpf.pdb
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject\AutoEntryMyWpf\bin\Debug\AutoEntryMyWpf.exe.config
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject\AutoEntryMyWpf\bin\Debug\AutoEntryMyWpf.exe
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject\AutoEntryMyWpf\bin\Debug\AutoEntryMyWpf.pdb
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject\AutoEntryMyWpf\bin\Debug\FlaUI.Core.dll
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject\AutoEntryMyWpf\bin\Debug\FlaUI.UIA3.dll
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject\AutoEntryMyWpf\bin\Debug\Interop.UIAutomationClient.dll
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject\AutoEntryMyWpf\bin\Debug\System.CodeDom.dll
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject\AutoEntryMyWpf\bin\Debug\FlaUI.Core.xml
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject\AutoEntryMyWpf\bin\Debug\FlaUI.UIA3.xml
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject\AutoEntryMyWpf\bin\Debug\System.CodeDom.xml
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject\AutoEntryMyWpf\obj\Debug\AutoEntryMyWpf.csproj.AssemblyReference.cache
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject\AutoEntryMyWpf\obj\Debug\AutoEntryMyWpf.csproj.CoreCompileInputs.cache
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject\AutoEntryMyWpf\obj\Debug\AutoEntr.69CF606E.Up2Date
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject\AutoEntryMyWpf\obj\Debug\AutoEntryMyWpf.exe
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject\AutoEntryMyWpf\obj\Debug\AutoEntryMyWpf.pdb
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject\AutoEntryMyWpf\bin\Debug\EntityFramework.dll
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject\AutoEntryMyWpf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject\AutoEntryMyWpf\bin\Debug\EntityFramework.xml
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\MyKpiyapProject\AutoEntryMyWpf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\RspoManager\AutoEntryMyWpf\bin\Debug\AutoEntryMyWpf.exe.config
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\RspoManager\AutoEntryMyWpf\bin\Debug\AutoEntryMyWpf.exe
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\RspoManager\AutoEntryMyWpf\bin\Debug\AutoEntryMyWpf.pdb
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\RspoManager\AutoEntryMyWpf\bin\Debug\EntityFramework.dll
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\RspoManager\AutoEntryMyWpf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\RspoManager\AutoEntryMyWpf\bin\Debug\FlaUI.Core.dll
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\RspoManager\AutoEntryMyWpf\bin\Debug\FlaUI.UIA3.dll
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\RspoManager\AutoEntryMyWpf\bin\Debug\Interop.UIAutomationClient.dll
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\RspoManager\AutoEntryMyWpf\bin\Debug\System.CodeDom.dll
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\RspoManager\AutoEntryMyWpf\bin\Debug\EntityFramework.xml
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\RspoManager\AutoEntryMyWpf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\RspoManager\AutoEntryMyWpf\bin\Debug\FlaUI.Core.xml
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\RspoManager\AutoEntryMyWpf\bin\Debug\FlaUI.UIA3.xml
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\RspoManager\AutoEntryMyWpf\bin\Debug\System.CodeDom.xml
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\RspoManager\AutoEntryMyWpf\obj\Debug\AutoEntryMyWpf.csproj.AssemblyReference.cache
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\RspoManager\AutoEntryMyWpf\obj\Debug\AutoEntryMyWpf.csproj.CoreCompileInputs.cache
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\RspoManager\AutoEntryMyWpf\obj\Debug\AutoEntr.69CF606E.Up2Date
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\RspoManager\AutoEntryMyWpf\obj\Debug\AutoEntryMyWpf.exe
+C:\Users\TizKizOy\Desktop\РСПО Декстоп\RspoManager\AutoEntryMyWpf\obj\Debug\AutoEntryMyWpf.pdb
